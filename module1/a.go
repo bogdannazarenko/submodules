@@ -1,5 +1,5 @@
 package module1
 
 func Hi() string {
-	return "HI!!!"
+	return "HI!!! 123"
 }
