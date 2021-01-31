@@ -1,5 +1,5 @@
 package mymod1
 
 func Hi() string {
-	return "HI123 !!!"
+	return "HI12345 !!!"
 }
