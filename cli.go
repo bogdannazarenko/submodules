@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/bogdannazarenko/submodules/module1"
+	"github.com/bogdannazarenko/submodules/mymod1"
 )
 
 func main() {
-	fmt.Println(module1.Hi())
+	fmt.Println(mymod1.Hi())
 }
